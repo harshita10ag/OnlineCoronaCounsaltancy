@@ -1,0 +1,219 @@
+img {
+  width: 100%;
+}
+
+.navbar {
+  background-color: #e3f2fd;
+}
+.fa.fa-edit {
+  color: #18a2b9;
+}
+
+.list-group-item.delete:hover {
+  cursor: -webkit-grab;
+  background-color: pink;
+}
+#showcase{
+  
+  background-image: url('../src/img/homepage.PNG');
+  background-size: cover;
+  min-height: 400px;
+  text-align: center;
+  color: white;
+}
+.list-group-item.update:hover {
+  cursor: -webkit-grab;
+  background-color: gainsboro;
+}
+.slider-btn a{
+  text-decoration: none;
+}
+#book{
+  width: 110px;
+}
+/*boxes*/
+#boxes{
+  margin-top: 20px;
+  height: 300px;
+
+}
+#footer{
+  background-image: url("../src/img/homepage.PNG");
+}
+#boxes img{
+  width: 70px;
+  height: 70px;;
+}
+#boxes .box{
+	float: left;
+	width: 30%;
+	padding: 10px;
+	text-align: center;
+}
+.list-group-item.board:hover {
+  cursor: -webkit-grab;
+  background-color: gainsboro;
+}
+
+.fa.fa-minus-circle {
+  color: red;
+}
+#points{
+  display: inline-block;
+}
+.about-img img{
+  height: 350px;
+}
+#foot{
+  margin: auto;
+  color: white;
+}
+#about-area{
+  background-color: #eefbfc;
+  padding: 50px 2px 50px 2px;
+}
+i{
+  margin-right: 10px;
+}
+.landing {
+  position: relative;
+  /* background: url("../img/showcase.jpg") no-repeat; */
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  margin-top: -24px;
+  margin-bottom: -50px;
+}
+
+.landing-inner {
+  padding-top: 80px;
+}
+
+.dark-overlay {
+  background-color: rgba(0, 0, 0, 0.7);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.card-form {
+  opacity: 0.9;
+}
+
+.latest-profiles-img {
+  width: 40px;
+  height: 40px;
+}
+
+.form-control::placeholder {
+  color: #bbb !important;
+}
+#description{
+  border: 1px solid;
+    padding: 3px 15px 10px 10px;
+    background-color: #f0f8ff;
+}
+#showcase h1{
+  
+  padding-top: 120px;
+  
+}
+#addLab{
+  background-image: url("../src/img/home1page2.PNG");
+  background-size: cover;
+  height: 585px;
+}
+#addLab h5{
+  color: white;
+  margin-top: 30px;
+}
+.errorMsg{
+  color: #00ff95;
+}
+#viewLab{
+  background-image: url(../src/img/viewlab.png);
+  background-size: cover;
+}
+#viewLab h1{
+  color: #00ffdc;
+}
+#viewLablist{
+  color:#002bff;
+}
+#createpatient{
+  background-image: url(../src/img/createpatient.png);
+  background-size: cover;
+}
+#createpatient h4{
+  color: #ff0202;
+}
+.errorMsg1{
+ color:  #fff700;
+ font-size: 20px;
+}
+#editLab{
+  background-image: url("../src/img/editLab.png");
+  background-size: cover;
+  height: 585px;
+  
+}
+#viewPatientlist{
+  background-image: url("../src/img/viewlab.png");
+  background-size: cover;
+  
+}
+#viewPatientlist h1{
+  color: aliceblue;
+}
+#pHome{
+  background-image:url("../src/img/patient.jpeg");
+  background-size: cover;
+  height: 500px;
+}
+.medicine{
+  font-size: larger;
+  font-weight: 500;
+  text-align: center;
+  padding-top: 50;
+
+}
+.med{
+  padding-top: 250px;
+  
+}
+.drop {
+  width: 500px;
+ 
+ padding-bottom: 50px;
+ padding-left: 50px;
+ background-color:  lightseagreen;
+ border: 5px solid lightseagreen;
+ margin: 0;
+ position:absolute;
+ left: 38%;
+
+border-radius: 15px;
+}
+.drop select{
+  
+    width: 260px;
+    height: 50px;
+
+}
+#fp1{
+  background-image: url("../src/img/medicine.jpg");
+  background-size: cover;
+}
+#fp1 label,h5{
+  color: white;
+}
+#mnav{
+  width: 81px;
+}
+
+/* select{
+  width: 260px;
+  height: 50px;
+} */

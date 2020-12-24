@@ -1,0 +1,23 @@
+.navbar-custom { 
+    background-color: lightgreen; 
+
+}
+
+.n{
+    height: 28px;
+    opacity: 0.6;
+}
+.each-slide > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: 480px;
+  }
+  
+  .each-slide span {
+    padding: 20px;
+    font-size: 20px;
+    background: #efefef;
+    text-align: center;
+  }
